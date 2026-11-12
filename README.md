@@ -23,4 +23,4 @@ bangun-alat-rekap/
 ## Penting
 
 - Semua data di repositori ini **karangan**. Jangan mengunggah data asli perusahaan.
-- Kode Sesi 2 diambil dari materi yang dibagikan mentor (`materi-alat-rekap_v3.html`), bukan dari repositori ini.
+- Kode Sesi 2 diambil dari materi yang dibagikan mentor (`https://xgen-html-fmcg.vercel.app`), bukan dari repositori ini.

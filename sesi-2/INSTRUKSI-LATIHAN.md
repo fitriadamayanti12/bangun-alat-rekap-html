@@ -33,7 +33,7 @@ Di akhir sesi ini, alat kamu harus bisa:
 | `data/data-contoh-8-baris.tsv` | Data contoh kecil (8 baris) yang dipakai tombol **Isi data contoh**. |
 | `hasil/` | **Tempat kamu menyimpan pekerjaanmu** (`rekap.html` dan `catatan-sesi-2.md`). |
 
-Kode untuk **Sesi 2A** dan **Sesi 2B** ada di materi `materi-alat-rekap_v3.html` (dari mentor). Salin dari sana, **sambil membaca penjelasan per barisnya**.
+Kode untuk **Sesi 2A** dan **Sesi 2B** ada di materi `https://xgen-html-fmcg.vercel.app` (dari mentor). Salin dari sana, **sambil membaca penjelasan per barisnya**.
 
 > ⚠️ **Semua data di folder ini adalah data karangan.** Jangan pernah mengunggah data asli perusahaan ke GitHub.
 
@@ -84,7 +84,7 @@ Pilih salah satu:
 
 - Buka folder `bangun-alat-rekap` di **VS Code** (File → Open Folder).
 - Siapkan **Chrome atau Edge**. Tekan **F12** lalu pilih tab **Console**. Di sinilah kamu melihat pesan kesalahan dan mengetik perintah uji.
-- Buka materi `materi-alat-rekap_v3.html` di tab browser terpisah (bagian **Sesi 2**).
+- Buka materi `https://xgen-html-fmcg.vercel.app` di tab browser terpisah (bagian **Sesi 2**).
 
 ### 4.3 Cek format angka di Excel kamu (penting)
 
