@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src data:;">
+<title>Alat Rekap Latihan</title>
+<style>
+:root{--bg:#f4f6f8;--kartu:#fff;--teks:#1d2733;--biru:#1f4e79;--ok:#e3f4e8;--warn:#fff4d6;--err:#fde4e4}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--teks);margin:0;padding:16px}
+.card{background:var(--kartu);border-radius:10px;padding:16px;margin:0 auto 14px;max-width:1100px;box-shadow:0 1px 3px #0002}
+.card h2{margin:0 0 10px;font-size:17px;color:var(--biru)}
+.msg{padding:8px 12px;border-radius:6px;margin:8px 0}
+.msg.ok{background:var(--ok)} .msg.warn{background:var(--warn)} .msg.err{background:var(--err)}
+.hidden{display:none}
+textarea{width:100%;height:140px;font-family:monospace}
+table{border-collapse:collapse;font-size:13px}
+th,td{border:1px solid #ccd;padding:4px 8px}
+th{background:#dbe9f5}
+td.n{text-align:right}
+tr.tot{font-weight:bold;background:#eef}
+tr.pink td{background:#fde2e8}
+</style>
+</head>
+<body>
+
+<div class="card hidden" id="kartuHistori">
+  <h2>0. Buka file histori</h2>
+  <p>Modul lanjutan (file histori terenkripsi). Belum aktif di latihan ini.</p>
+  <input type="file" id="fileHistori" disabled>
+</div>
+
+<div class="card">
+  <h2>1. Tempel data</h2>
+  <details><summary>Cara pakai</summary>Blok seluruh sheet Excel, Copy, Paste di kotak ini, isi jam rilis, klik Proses.</details>
+  <textarea id="paste" placeholder="Paste data Excel di sini"></textarea>
+  <details><summary>Posisi sebelumnya (pembanding, opsional)</summary>
+    <textarea id="pasteLama" placeholder="Paste data posisi sebelumnya di sini"></textarea>
+    <button id="btnContohLama">Isi posisi lama contoh</button>
+  </details>
+  <p>Jam rilis data: <input type="text" id="jam" value="09:00" size="6">
+     Pembanding: <select id="pembanding">
+       <option value="none">Tanpa pembanding</option>
+       <option value="tempel">Posisi sebelumnya (kotak di atas)</option></select>
+     <button id="btnProses">Proses</button>
+     <button id="btnContoh">Isi data contoh</button></p>
+  <div id="pesan"></div>
+</div>
+
+<div class="card hidden" id="kartuKontrol">
+  <h2>2. Angka kontrol</h2>
+  <div id="kontrol"></div>
+</div>
+
+<div class="card hidden" id="kartuRekap">
+  <h2>3. Tabel rekap</h2>
+  <div id="out"></div>
+</div>
+
+<div class="card hidden" id="kartuKlaim">
+  <h2>3b. Highlight klaim retur</h2>
+  <div id="klaim"></div>
+</div>
+
+<div class="card hidden" id="kartuWag">
+  <h2>4. Teks WAG</h2>
+  <textarea id="wag"></textarea>
+  <p><button id="btnSalin">Salin</button></p>
+</div>
+
+<div class="card hidden" id="kartuExport">
+  <h2>5. Export Excel</h2>
+  <button id="btnCsv">Unduh CSV</button>
+  <button id="btnXlsx" disabled>Unduh .xlsx (belum aktif)</button>
+</div>
+
+<div class="card hidden" id="kartuGrafik">
+  <h2>6. Grafik tren</h2>
+  <div id="grafik"></div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function tampilPesan(jenis, teks){
+  $('pesan').innerHTML = '<div class="msg ' + jenis + '">' + esc(teks) + '</div>';
+}
+// ====== SESI 2, 3, 4 DITEMPEL DI BAWAH GARIS INI ======
+</script>
+</body>
+</html>

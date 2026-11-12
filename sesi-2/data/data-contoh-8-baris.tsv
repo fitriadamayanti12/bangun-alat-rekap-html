@@ -1,0 +1,10 @@
+Tgl Opname	Kode Batch	Nama Produk	"Kode
+Gudang"	Nama Gudang	Area	Nama PIC	Nilai Sisa Stok (Rp)	Target Keluar per Minggu (Rp)	Minggu Ke	Ket Kedaluwarsa	Ket Pengeluaran	Kategori Produk	Saluran Jual	Ket Klaim Retur	Nominal Klaim (Rp)
+46304	B-24017	Teh Melati 350 ml	G01	Gudang Kenanga	Area Timur	Andi	12.500.000	850.000	4	Belum Lewat ED	Keluar < 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46304	B-24102	Biskuit Gandum 200 g	G02	Gudang Flamboyan	Area Barat	Sari	7.250.000	600.000	9	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Ada Klaim	150.000
+46304	B-23988	Sabun Cair 450 ml	G01	Gudang Kenanga	Area Timur	Rudi	3.100.000	400.000	2	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+															
+46304	B-24230	Mie Instan Goreng	G01	Gudang Kenanga	Area Timur	Andi	5.400.000	700.000	7	Sudah Lewat ED	Keluar < 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46304	B-24301	Minyak Goreng 1 L	G03	Gudang Melati	Area Tengah	Sari	(500)	300.000	1	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46304	B-24444	Shampoo Sachet			Area Barat	Rudi	1.000.000	200.000	3	Belum Lewat ED	Keluar < 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46304	B-24500	Kopi Sachet	G02	Gudang Flamboyan	Area Barat	Sari	abc	200.000	3	Belum Lewat ED	Keluar < 50% Target	Minuman	Grosir	Tdk Ada Klaim	0

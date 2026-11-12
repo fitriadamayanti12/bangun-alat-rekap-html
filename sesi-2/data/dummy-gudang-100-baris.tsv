@@ -1,0 +1,101 @@
+Tgl Opname	Kode Batch	Nama Produk	Kode Gudang	Nama Gudang	Area	Nama PIC	Nilai Sisa Stok (Rp)	Target Keluar per Minggu (Rp)	Minggu Ke	Ket Kedaluwarsa	Ket Pengeluaran	Kategori Produk	Saluran Jual	Ket Klaim Retur	Nominal Klaim (Rp)
+46304	B-23509	Deterjen Bubuk 800 g	G01	Gudang Kenanga	Area Timur	Rudi	14.950.000	900.000	13	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46302	B-23540	Sirup Jeruk 460 ml	G01	Gudang Kenanga	Area Timur	Rudi	5.650.000	750.000	5	Belum Lewat ED	Keluar < 50% Target	Minuman	Modern Trade	Ada Klaim	290.000
+46300	B-23578	Kopi Sachet	G01	Gudang Kenanga	Area Timur	Rudi	3.900.000	600.000	1	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46304	B-23608	Sirup Jeruk 460 ml	G04	Gudang Anggrek	Area Utara	Andi	10.450.000	950.000	5	Belum Lewat ED	Keluar < 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+															
+46300	B-23633	Pewangi Pakaian 900 ml	G04	Gudang Anggrek	Area Utara	Andi	10.550.000	800.000	4	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46302	B-23665	Tisu Gulung 4 pcs	G02	Gudang Flamboyan	Area Barat	Dewi	5.400.000	550.000	12	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Modern Trade	Tdk Ada Klaim	0
+46297	B-23686	Air Mineral 600 ml	G04	Gudang Anggrek	Area Utara	Andi	17.900.000	950.000	5	Belum Lewat ED	Keluar < 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46298	B-23720	Gula Pasir 1 kg	G04	Gudang Anggrek	Area Utara	Andi	(500)	850.000	1	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46297	B-23738	Mie Instan Goreng	G01	Gudang Kenanga	Area Timur	Rudi	17.400.000	700.000	3	Sudah Lewat ED	Keluar < 50% Target	Makanan	Online	Ada Klaim	360.000
+46304	B-23778	Sabun Mandi Batang	G02	Gudang Flamboyan	Area Barat	Dewi	2.450.000	800.000	11	Sudah Lewat ED	Keluar ≥ 50% Target	Perawatan	Online	Ada Klaim	240.000
+46302	B-23814	Susu UHT 1 L	G04	Gudang Anggrek	Area Utara	Rina	3.000.000	750.000	2	Sudah Lewat ED	Keluar ≥ 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46297	B-23836	Kecap Manis 275 ml	G01	Gudang Kenanga	Area Utara	Rudi	12.200.000	400.000	3	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46297	B-23843	Minyak Goreng 1 L	G03	Gudang Melati	Area Tengah	Bagas	abc	400.000	1	Belum Lewat ED	Keluar < 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46297	B-23876	Mie Instan Goreng	G04	Gudang Anggrek	Area Utara	Rina	16.800.000	950.000	4	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46304	B-23903	Biskuit Gandum 200 g	G02	Gudang Flamboyan	Area Barat	Dewi	2.300.000	750.000	5	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46300	B-23924	Shampoo Sachet	G04	Gudang Anggrek	Area Utara	Andi	11.650.000	300.000	9	Belum Lewat ED	Keluar < 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46302	B-23956	Kopi Sachet	G02	Gudang Flamboyan	Area Barat	Sari	950.000	700.000	14	Sudah Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46298	B-23994	Gula Pasir 1 kg	G02	Gudang Flamboyan	Area Barat	Dewi	14.700.000	550.000	11	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46300	B-24003	Biskuit Gandum 200 g	G01	Gudang Kenanga	Area Timur	Andi	16.800.000	300.000	9	Belum Lewat ED	Keluar < 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46297	B-24022	Biskuit Gandum 200 g	G03	Gudang Melati	Area Tengah	Sari	6.850.000	800.000	1	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46304	B-24054	Kecap Manis 275 ml	G01	Gudang Kenanga	Area Tengah	Andi	10.600.000	650.000	10	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46300	B-24073	Deterjen Bubuk 800 g	G01	Gudang Kenanga	Area Timur	Andi	19.100.000	800.000	1	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46297	B-24096	Shampoo Sachet	G01	Gudang Kenanga	Area Timur	Rudi	5.350.000	200.000	12	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46304	B-24118	Tisu Gulung 4 pcs	G01	Gudang Kenanga	Area Tengah	Andi	9.400.000	800.000	7	Belum Lewat ED	Keluar < 50% Target	Rumah Tangga	Online	Ada Klaim	190.000
+46302	B-24155	Teh Melati 350 ml	G02	Gudang Flamboyan	Area Barat	Dewi	4.050.000	500.000	1	Sudah Lewat ED	Keluar ≥ 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46298	B-24195	Susu UHT 1 L	G03	Gudang Melati	Area Tengah	Bagas	16.900.000	950.000	14	Sudah Lewat ED	Keluar < 50% Target	Minuman	Online	Ada Klaim	250.000
+46298	B-24213	Teh Melati 350 ml	G01	Gudang Kenanga	Area Timur	Andi	19.350.000	750.000	12	Belum Lewat ED	Keluar < 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46302	B-24239	Mie Instan Goreng	G03	Gudang Melati	Area Tengah	Sari	17.500.000	600.000	4	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46298	B-24268	Deterjen Bubuk 800 g			Area Timur	Andi	7.950.000	700.000	9	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46304	B-24305	Teh Melati 350 ml	G01	Gudang Kenanga	Area Timur	Rudi	14.950.000	200.000	7	Belum Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46302	B-24313	Sirup Jeruk 460 ml	G02	Gudang Flamboyan	Area Barat	Dewi	14.300.000	550.000	5	Sudah Lewat ED	Keluar < 50% Target	Minuman	Grosir	Ada Klaim	150.000
+46302	B-24338	Beras Premium 5 kg	G03	Gudang Melati	Area Tengah	Bagas	19.400.000	150.000	14	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Ada Klaim	270.000
+46298	B-24352	Teh Melati 350 ml	G02	Gudang Flamboyan	Area Barat	Sari	1.000.000	300.000	9	Belum Lewat ED	Keluar < 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46304	B-24389	Mie Instan Goreng	G03	Gudang Melati	Area Tengah	Bagas	3.500.000	300.000	6	Belum Lewat ED	Keluar < 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46300	B-24411	Tisu Gulung 4 pcs	G01	Gudang Kenanga	Area Timur	Rudi	13.050.000	300.000	9	Belum Lewat ED	Keluar < 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46297	B-24419	Sarden Kaleng 155 g	G04	Gudang Anggrek	Area Utara	Andi	8.250.000	550.000	13	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Ada Klaim	370.000
+46298	B-24447	Sabun Mandi Batang	G03	Gudang Melati	Area Tengah	Sari	5.900.000	700.000	13	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Online	Tdk Ada Klaim	0
+46298	B-24486	Pasta Gigi 120 g	G04	Gudang Anggrek	Area Utara	Andi	7.150.000	650.000	14	Sudah Lewat ED	Keluar ≥ 50% Target	Perawatan	Modern Trade	Tdk Ada Klaim	0
+46298	B-24503	Gula Pasir 1 kg	G03	Gudang Melati	Area Tengah	Bagas	7.150.000	600.000	10	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46302	B-24512	Kecap Manis 275 ml	G03	Gudang Melati	Area Tengah	Bagas	11.150.000	700.000	11	Belum Lewat ED	Keluar < 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46304	B-24536	Susu UHT 1 L	G02	Gudang Flamboyan	Area Tengah	Dewi	12.450.000	900.000	6	Sudah Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46298	B-24559	Gula Pasir 1 kg	G01	Gudang Kenanga	Area Timur	Rudi	13.450.000	550.000	10	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Ada Klaim	170.000
+46302	B-24583	Susu UHT 1 L	G01	Gudang Kenanga	Area Timur	Andi	15.800.000	400.000	12	Belum Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46304	B-24612	Gula Pasir 1 kg	G02	Gudang Flamboyan	Area Barat	Sari	12.350.000	650.000	6	Belum Lewat ED	Keluar < 50% Target	Makanan	Modern Trade	Ada Klaim	360.000
+46302	B-24646	Air Mineral 600 ml	G03	Gudang Melati	Area Tengah	Sari	6.750.000	850.000	4	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Online	Ada Klaim	300.000
+															
+46304	B-24701	Kecap Manis 275 ml	G04	Gudang Anggrek	Area Utara	Rina	19.700.000	550.000	14	Belum Lewat ED	Keluar < 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46298	B-24705	Mie Instan Goreng	G01	Gudang Kenanga	Area Timur	Rudi	13.300.000	950.000	3	Belum Lewat ED	Keluar < 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46302	B-24731	Kecap Manis 275 ml	G04	Gudang Anggrek	Area Utara	Rina	4.150.000	350.000	12	Sudah Lewat ED	Keluar < 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46298	B-24751	Air Mineral 600 ml	G01	Gudang Kenanga	Area Timur	Andi	7.100.000	700.000	3	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46297	B-24785	Shampoo Sachet	G02	Gudang Flamboyan	Area Barat	Dewi	5.950.000	950.000	6	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Online	Tdk Ada Klaim	0
+46297	B-24797	Kecap Manis 275 ml	G04	Gudang Anggrek	Area Utara	Andi	450.000	200.000	2	Belum Lewat ED	Keluar < 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46297	B-24810	Teh Melati 350 ml	G03	Gudang Melati	Area Tengah	Sari	17.250.000	800.000	4	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46302	B-24847	Biskuit Gandum 200 g	G04	Gudang Anggrek	Area Utara	Andi	(750.000)	700.000	12	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46298	B-24880	Pewangi Pakaian 900 ml	G04	Gudang Anggrek	Area Utara	Rina	3.250.000	250.000	6	Belum Lewat ED	Keluar < 50% Target	Rumah Tangga	Grosir	Ada Klaim	120.000
+46302	B-24895	Shampoo Sachet	G02	Gudang Flamboyan	Area Barat	Sari	14.300.000	350.000	11	Belum Lewat ED	Keluar < 50% Target	Perawatan	Modern Trade	Tdk Ada Klaim	0
+46302	B-24898	Sabun Cair 450 ml	G03	Gudang Melati	Area Tengah	Sari	9.350.000	900.000	3	Sudah Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46304	B-24938	Tisu Gulung 4 pcs	G03	Gudang Melati	Area Tengah	Sari	19.600.000	550.000	11	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Online	Ada Klaim	380.000
+46297	B-24943	Beras Premium 5 kg	G01	Gudang Kenanga	Area Timur	Andi	13.800.000	850.000	10	Sudah Lewat ED	Keluar < 50% Target	Makanan	Online	Ada Klaim	340.000
+46297	B-24966	Susu UHT 1 L	G04	Gudang Anggrek	Area Utara	Andi	2.650.000	400.000	9	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Ada Klaim	90.000
+46302	B-24978	Kecap Manis 275 ml	G01	Gudang Kenanga	Area Timur	Andi	8.500.000	850.000	12	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46297	B-24992	Tisu Gulung 4 pcs	G04	Gudang Anggrek	Area Barat	Andi	15.400.000	750.000	8	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46300	B-25024	Deterjen Bubuk 800 g	G04	Gudang Anggrek	Area Utara	Rina	13.600.000	650.000	5	Belum Lewat ED	Keluar < 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46297	B-25037	Deterjen Bubuk 800 g	G01	Gudang Kenanga	Area Timur	Rudi	5.850.000	250.000	9	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46298	B-25065	Shampoo Sachet			Area Timur	Andi	1.600.000	550.000	13	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Modern Trade	Tdk Ada Klaim	0
+46304	B-25081	Air Mineral 600 ml	G01	Gudang Kenanga	Area Timur	Andi	11.750.000	200.000	6	Belum Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46298	B-25086	Deterjen Bubuk 800 g	G04	Gudang Anggrek	Area Utara	Andi	1.500.000	600.000	2	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46297	B-25119	Air Mineral 600 ml	G01	Gudang Kenanga	Area Timur	Andi	14.300.000	950.000	10	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46297	B-25151	Sabun Cair 450 ml	G03	Gudang Melati	Area Tengah	Bagas	10.850.000	750.000	9	Sudah Lewat ED	Keluar < 50% Target	Perawatan	Grosir	Ada Klaim	150.000
+46302	B-25186	Mie Instan Goreng	G02	Gudang Flamboyan	Area Barat	Dewi	16.800.000	400.000	8	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46302	B-25222	Pembersih Lantai 800 ml	G02	Gudang Flamboyan	Area Barat	Sari	n/a	650.000	3	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46300	B-25261	Shampoo Sachet	G04	Gudang Anggrek	Area Utara	Rina	19.300.000	150.000	11	Sudah Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46304	B-25300	Pembersih Lantai 800 ml	G03	Gudang Melati	Area Tengah	Bagas	1.000.000	650.000	12	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46302	B-25335	Biskuit Gandum 200 g	G02	Gudang Flamboyan	Area Barat	Sari	2.000.000	350.000	1	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+46297	B-25362	Susu UHT 1 L	G03	Gudang Melati	Area Tengah	Sari	15.300.000	300.000	2	Sudah Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46300	B-25393	Pasta Gigi 120 g	G04	Gudang Anggrek	Area Utara	Andi	11.700.000	800.000	8	Sudah Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46300	B-25409	Teh Melati 350 ml	G01	Gudang Kenanga	Area Timur	Rudi	6.050.000	650.000	3	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Grosir	Tdk Ada Klaim	0
+46300	B-25425	Sabun Cair 450 ml	G03	Gudang Melati	Area Tengah	Sari	18.050.000	550.000	6	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46304	B-25438	Beras Premium 5 kg	G03	Gudang Melati	Area Barat	Bagas	11.650.000	750.000	11	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Modern Trade	Tdk Ada Klaim	0
+															
+46297	B-25489	Sarden Kaleng 155 g	G03	Gudang Melati	Area Tengah	Sari	13.750.000	800.000	7	Belum Lewat ED	Keluar < 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46298	B-25498	Teh Melati 350 ml	G04	Gudang Anggrek	Area Utara	Andi	16.100.000	750.000	8	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46297	B-25506	Pewangi Pakaian 900 ml	G02	Gudang Flamboyan	Area Barat	Sari	10.450.000	300.000	8	Belum Lewat ED	Keluar < 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46297	B-25528	Kecap Manis 275 ml	G01	Gudang Kenanga	Area Timur	Andi	19.800.000	650.000	11	Sudah Lewat ED	Keluar < 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46300	B-25566	Mie Instan Goreng	G01	Gudang Kenanga	Area Timur	Andi	3.450.000	250.000	6	Sudah Lewat ED	Keluar ≥ 50% Target	Makanan	Grosir	Tdk Ada Klaim	0
+46302	B-25574	Susu UHT 1 L	G04	Gudang Anggrek	Area Utara	Andi	1.900.000	850.000	8	Sudah Lewat ED	Keluar ≥ 50% Target	Minuman	Online	Ada Klaim	110.000
+46304	B-25581	Shampoo Sachet	G01	Gudang Kenanga	Area Timur	Andi	11.150.000	300.000	6	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46300	B-25590	Shampoo Sachet	G03	Gudang Melati	Area Tengah	Bagas	10.800.000	250.000	10	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Modern Trade	Tdk Ada Klaim	0
+46302	B-25626	Tisu Gulung 4 pcs	G03	Gudang Melati	Area Tengah	Sari	1.150.000	550.000	9	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Modern Trade	Tdk Ada Klaim	0
+46304	B-25657	Pembersih Lantai 800 ml	G02	Gudang Flamboyan	Area Barat	Dewi	7.050.000	600.000	2	Belum Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Grosir	Tdk Ada Klaim	0
+46302	B-25681	Sirup Jeruk 460 ml	G03	Gudang Melati	Area Tengah	Sari	15.850.000	750.000	11	Sudah Lewat ED	Keluar ≥ 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46300	B-25708	Pembersih Lantai 800 ml	G04	Gudang Anggrek	Area Utara	Andi	19.100.000	700.000	13	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Modern Trade	Tdk Ada Klaim	0
+46300	B-25712	Tisu Gulung 4 pcs	G04	Gudang Anggrek	Area Utara	Rina	3.250.000	650.000	7	Sudah Lewat ED	Keluar ≥ 50% Target	Rumah Tangga	Online	Tdk Ada Klaim	0
+46297	B-25719	Air Mineral 600 ml	G03	Gudang Melati	Area Barat	Sari	16.100.000	850.000	2	Belum Lewat ED	Keluar ≥ 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46297	B-25748	Sirup Jeruk 460 ml	G01	Gudang Kenanga	Area Timur	Andi	2.100.000	750.000	1	Sudah Lewat ED	Keluar < 50% Target	Minuman	Online	Tdk Ada Klaim	0
+46304	B-25777	Beras Premium 5 kg	G01	Gudang Kenanga	Area Timur	Rudi	5.150.000	200.000	7	Belum Lewat ED	Keluar ≥ 50% Target	Makanan	Online	Tdk Ada Klaim	0
+46304	B-25784	Air Mineral 600 ml	G02	Gudang Flamboyan	Area Barat	Dewi	12.500.000	850.000	11	Belum Lewat ED	Keluar < 50% Target	Minuman	Modern Trade	Tdk Ada Klaim	0
+46302	B-25799	Shampoo Sachet	G01	Gudang Kenanga	Area Timur	Andi	5.550.000	650.000	3	Belum Lewat ED	Keluar < 50% Target	Perawatan	Grosir	Tdk Ada Klaim	0
+46297	B-25806	Sabun Cair 450 ml	G01	Gudang Kenanga	Area Timur	Andi	9.650.000	250.000	5	Belum Lewat ED	Keluar ≥ 50% Target	Perawatan	Modern Trade	Tdk Ada Klaim	0
